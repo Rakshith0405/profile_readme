@@ -20,6 +20,7 @@
 ---
 
 ### 📊 **GitHub Stats**  
-![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshith0405&show_icons=true&theme=radical)  
+![Rakshith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rakshith0405&show_icons=true&theme=tokyonight)
+
 
 🚀 **Check out my projects and let's build something awesome!**  
